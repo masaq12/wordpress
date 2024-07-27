@@ -1,0 +1,13 @@
+.widget {
+    padding: 10px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+    margin-bottom: 10px;
+    cursor: move;
+}
+
+#widget-area {
+    border: 2px dashed #aaa;
+    padding: 20px;
+    min-height: 100px;
+}

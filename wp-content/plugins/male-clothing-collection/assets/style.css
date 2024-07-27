@@ -1,0 +1,13 @@
+<style>
+.mcc-product-collection {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.mcc-product {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+    cursor: move;
+}
+</style>
